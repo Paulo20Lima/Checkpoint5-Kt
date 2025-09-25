@@ -1,4 +1,9 @@
 # Fundamentos Jetpack Compose Listas Lazy
+# Turma: 3SIR
+## Alunos e RMs
+- Paulo Henrique da Silva Lima - RM 552444  
+- Pedro Ruvieri Cavariani - RM 551380
+
 
 Este projeto é um aplicativo Android desenvolvido em Kotlin, utilizando Jetpack Compose para a construção de interfaces modernas e reativas. O objetivo principal é demonstrar o uso de listas Lazy (LazyColumn e LazyRow) para exibir e filtrar jogos favoritos por estúdio.
 
@@ -56,10 +61,14 @@ app/
 
 ## Screenshots
 
-> Adicione aqui prints da tela principal, busca e filtro aplicados (opcional).
+<img width="277" height="607" alt="image" src="https://github.com/user-attachments/assets/a86253ed-6788-4735-b0d9-6c4059214751" />
+<img width="282" height="619" alt="image" src="https://github.com/user-attachments/assets/d00cde70-d91d-4096-a132-278bd171f826" />
+<img width="280" height="607" alt="image" src="https://github.com/user-attachments/assets/836b247c-083f-48ae-b8e3-44313cfa5f90" />
 
-## Autor
-- Desenvolvido por Ewerton Carreira.
+
+
+## Autores
+- Desenvolvido por Ewerton Carreira e pelos alunos Paulo e Pedro.
 
 ---
 
